@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gastos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46b97446c9be1721876522213ac427962abeba34")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4eafdb35f9ac0b07a11da89f22083cdbbf0f46d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gastos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gastos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
